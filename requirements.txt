@@ -1,0 +1,46 @@
+# === LLM / Agents Core ===
+langchain
+langgraph
+crewai
+agno
+
+# === Модели / провайдеры ===
+openai
+together
+anthropic
+
+# === RAG и векторные базы ===
+llama-index
+faiss-cpu
+chromadb
+
+# === Embeddings ===
+sentence-transformers
+
+# === Работа с документами ===
+pypdf
+python-docx
+beautifulsoup4
+unstructured
+
+# === API и веб-сервер ===
+fastapi
+uvicorn
+
+# === Асинхронность и утилиты ===
+httpx
+aiofiles
+python-dotenv
+
+# === Логирование и отладка ===
+rich
+tqdm
+
+# === (Опционально) Хранение памяти ===
+sqlalchemy
+redis
+
+# === (Опционально) ML / локальные модели ===
+transformers
+torch
+accelerate
